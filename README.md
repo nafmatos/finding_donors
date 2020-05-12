@@ -13,4 +13,5 @@ This project was run using conda as environment manager.<br>
 You can quickly reproduce the environment using the environment.yml file provided. See instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 ___
 ## Notebook application
-The file `finding_donors.ipynb` will guide you through all steps performed to identify donors scikit learn library.
+The file `finding_donors.ipynb` will guide you through all steps performed to identify donors using 
+[scikit learn](https://scikit-learn.org/stable/) library.
